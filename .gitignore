@@ -4,3 +4,8 @@ upload.sh
 *.json
 !manufest.json
 .DS_Store/
+
+# settings for labable switch 
+.env
+firmware/labable_switch/secrets.h
+.DS_Store
